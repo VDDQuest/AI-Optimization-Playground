@@ -1,5 +1,7 @@
 # 🤖 AI Optimization Playground
 
+![AI Optimization Playground Banner](images/Banner_AI_Optimizatioin_Playground.png)
+
 This repository is a growing collection of optimization models and scenarios built using [PuLP](https://github.com/coin-or/pulp) and Python.
 
 Each notebook solves a real-world **linear programming (LP)** problem, including:
